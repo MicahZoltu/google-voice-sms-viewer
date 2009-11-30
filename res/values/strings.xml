@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="checker_service_name">Google Voice SMS Viewer Checker Service</string>
+    <string name="hello">Hello World, Inbox!</string>
+    <string name="app_name">Google Voice SMS Viewer</string>
+<string name="authentication_intent_notification_message_short">SMS Viewer Authentication Needed</string>
+<string name="authentication_intent_notification_message_long">Input needed to authenticate your Google Voice account.</string>
+</resources>
